@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">thirdApp_hm</string>
+    <string name="app_name">Dropdown Menu</string>
+    <string name="type">Type</string>
 </resources>
